@@ -1,0 +1,11 @@
+# 忽略 VSCode 的配置目录
+.vscode/
+
+# 忽略 JetBrains IDE 的配置目录
+.idea/
+
+# 忽略 Python 编译字节码文件
+*.pyc
+
+# 忽略 Python 字节码缓存目录
+__pycache__/
